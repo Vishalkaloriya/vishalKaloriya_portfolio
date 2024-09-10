@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Vishalkaloriya/static/css/main.bf538fe7.css",
-    "main.js": "/Vishalkaloriya/static/js/main.9a3317bb.js",
+    "main.js": "/Vishalkaloriya/static/js/main.d9f7baa3.js",
     "static/media/HeroImage.jpg": "/Vishalkaloriya/static/media/HeroImage.12e544516dbcdfc2f76e.jpg",
     "index.html": "/Vishalkaloriya/index.html",
     "main.bf538fe7.css.map": "/Vishalkaloriya/static/css/main.bf538fe7.css.map",
-    "main.9a3317bb.js.map": "/Vishalkaloriya/static/js/main.9a3317bb.js.map"
+    "main.d9f7baa3.js.map": "/Vishalkaloriya/static/js/main.d9f7baa3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.9a3317bb.js"
+    "static/js/main.d9f7baa3.js"
   ]
 }

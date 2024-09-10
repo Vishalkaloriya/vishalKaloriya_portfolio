@@ -91,7 +91,8 @@ export const CardContainer = styled.div`
     justify-content: center;
     align-items: center;
     gap: 28px;
-    flex-wrap: wrap;
+    // flex-wrap: wrap;
+    flex-wrap: nowrap;
     // display: grid;
     // grid-template-columns: repeat(3, 1fr);
     // grid-gap: 32px;

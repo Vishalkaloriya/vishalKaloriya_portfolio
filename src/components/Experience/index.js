@@ -77,12 +77,7 @@ const index = () => {
       <Wrapper>
         <Title>Experience</Title>
         <Desc>
-          {/* My work experience as a software engineer and working on different companies and projects. */}
-          As an aspiring software engineer with a strong educational background
-          and a passion for coding, I've focused on personal projects and
-          rigorous coursework to develop my skills in development. With a
-          foundation in algorithms and a drive to learn, I'm eager to contribute
-          to innovative software solutions.
+          My work experience as a software engineer and working on different companies and projects.
         </Desc>
         <TimelineSection>
           <Timeline>
